@@ -1,4 +1,4 @@
-# 🏥 Kigali Express Hospital — CH-UKA Management System
+# 🏥 Kigali Express Hospital — CHUKA Management System
 
 A full-stack hospital management system built for **CH-IKA Hospital**, designed to streamline hospital operations through a clean web interface backed by a RESTful API.
 
